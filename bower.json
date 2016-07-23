@@ -1,19 +1,18 @@
 {
-  "name": "jquery-boilerplate",
+  "name": "jquery-activelink",
   "license": "MIT",
   "authors": [
-    "Zeno Rocha <hi@zenorocha.com>"
+    "Kelly Apollo <nagisa.fff@gamil.com>"
   ],
-  "description": "A jump-start for jQuery plugins development.",
-  "homepage": "http://jqueryboilerplate.com",
+  "description": "Add active css class to the link of current page",
+  "homepage": "https://github.com/kelly-apollo/activelink.js",
   "keywords": [
     "jquery",
     "plugin",
-    "boilerplate",
-    "jquery-plugin",
-    "jquery-boilerplate"
+    "active",
+    "link",
   ],
-  "main": "src/jquery.boilerplate.js",
+  "main": "src/jquery.activelink.js",
   "dependencies": {
     "jquery": "1"
   },
