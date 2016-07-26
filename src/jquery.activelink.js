@@ -34,6 +34,7 @@
 
     inPage: function (url) {
       var pathname = window.location.pathname
+      url = (url === '') ? undefined : url
       return (url !== '/' && pathname.indexOf(url) === 0) || pathname === url
     },
 
