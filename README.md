@@ -1,6 +1,6 @@
 # Activelink.js
 
-Add specified css class to `<a>` tag conext which matches a current URL.
+Add specified css class to `<a>` tag which matches current URL.
 
 ## Usage
 
